@@ -6,7 +6,7 @@ Instagram_clone is a social media platform that allows users to share photos and
 LOGIN<br/>
 <p float="left">
   <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/0c321862-2b1a-45cd-b41e-d95cd497f6fc" widht="230" height="400" />
-  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/adb2217a-c557-4caf-8efa-4dedf1a7b6e2" widht="1200" height="600" />
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/adb2217a-c557-4caf-8efa-4dedf1a7b6e2" widht="800" height="400" />
 </p>
 
 
