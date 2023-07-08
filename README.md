@@ -46,7 +46,7 @@ UPLOAD POST<br/>
  PROFILE SCREEN<br/>
 <p float="left">
   <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/631bf33c-0931-4855-a8ca-a25f9744ca27" widht="230" height="400" />    
-  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/2855f0b5-2c47-4c4f-93e6-fccb2124bf54" widht="700" height="400" />
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/2855f0b5-2c47-4c4f-93e6-fccb2124bf54" widht="500" height="400" />
 </p><br/><br/>
 
 
