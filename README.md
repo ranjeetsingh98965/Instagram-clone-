@@ -22,7 +22,7 @@ HOME SCREEN<br/>
 LIKE POST<br/>
 <p float="left">
   <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/072c48b1-ca2b-4de6-9253-38669872e526" widht="230" height="400" />    
-  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/d212f5a6-15e9-4d39-a1c7-92843fd6b293" widht="650" height="400" />
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/d212f5a6-15e9-4d39-a1c7-92843fd6b293" widht="700" height="400" />
 </p><br/><br/>
 
 POST COMMENTS<br/>
