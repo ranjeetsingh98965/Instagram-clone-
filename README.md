@@ -34,7 +34,7 @@ POST COMMENTS<br/>
 SEARCH SCREEN<br/>
 <p float="left">
   <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/15767d66-1d78-4ac9-9ee4-9d4b6949e473" widht="230" height="400" />    
-  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/8a9f0f4c-1506-4ea7-8ea1-b169112fe951" widht="700" height="400" />
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/8a9f0f4c-1506-4ea7-8ea1-b169112fe951" widht="400" height="400" />
 </p><br/><br/>
 
 UPLOAD POST<br/>
