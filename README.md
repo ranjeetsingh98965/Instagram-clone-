@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+Instagram_clone is a social media platform that allows users to share photos and videos with their followers. It was created as a mobile application but is also accessible through a web browser. The app provides a feed where users can see posts from the accounts they follow, and they can like, comment, and share posts with their own followers.<br/>
+LOGIN<br/>
+<img src="https://user-images.githubusercontent.com/80505785/177041955-22b090f6-17e5-40ab-82bc-d8e94054f8f4.png" width="230" height="400"><br/><br/>
+<p float="left">
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/0c321862-2b1a-45cd-b41e-d95cd497f6fc" widht="33%" />
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
