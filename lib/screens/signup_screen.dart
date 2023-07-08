@@ -6,6 +6,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:instagram_clone/providers/user_provider.dart';
 import 'package:instagram_clone/resources/auth_methods.dart';
 import 'package:instagram_clone/screens/login_screen.dart';
+import 'package:instagram_clone/utils/global_variables.dart';
 
 import '../responsive/mobile_screen_layout.dart';
 import '../responsive/responsive_layout_screen.dart';
@@ -59,7 +60,6 @@ class _SignupScreenState extends State<SignupScreen> {
       file: _image!,
     );
 
-
     if (res == "success") {
       setState(() {
         _isLoading = false;
@@ -67,16 +67,14 @@ class _SignupScreenState extends State<SignupScreen> {
       Navigator.of(context).pushReplacement(MaterialPageRoute(
         builder: (context) => const ResponsiveLayout(
             webScreenLayout: WebScreenLayout(),
-            mobileScreenLayout: MobileScreenLayout()
-        ),
+            mobileScreenLayout: MobileScreenLayout()),
       ));
     } else {
-     setState(() {
-       _isLoading = false;
-     });
-     showSnackBar(res, context);
+      setState(() {
+        _isLoading = false;
+      });
+      showSnackBar(res, context);
     }
-
   }
 
   void navigateToLogin() {
@@ -91,7 +89,10 @@ class _SignupScreenState extends State<SignupScreen> {
         // resizeToAvoidBottomInset: false,
         body: SafeArea(
       child: Container(
-        padding: EdgeInsets.symmetric(horizontal: 32),
+        padding: MediaQuery.of(context).size.width > webScreenSize
+            ? EdgeInsets.symmetric(
+          horizontal: MediaQuery.of(context).size.width / 3)
+        : const EdgeInsets.symmetric(horizontal: 32),
         width: double.infinity,
         child: SingleChildScrollView(
           physics: BouncingScrollPhysics(),
