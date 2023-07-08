@@ -5,8 +5,13 @@ LOGIN<br/>
 <p float="left">
   <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/0c321862-2b1a-45cd-b41e-d95cd497f6fc" widht="230" height="400" />    
   <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/adb2217a-c557-4caf-8efa-4dedf1a7b6e2" widht="700" height="400" />
-</p>
+</p><br/><br/>
 
+LOGIN<br/>
+<p float="left">
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/bdcb009e-e64a-4a6d-a928-89644b61dc20" widht="230" height="400" />    
+  <img src="https://github.com/ranjeetsingh98965/Instagram-clone-/assets/80505785/fb72a6b4-a317-4c75-8092-3589f9da85d5" widht="700" height="400" />
+</p><br/><br/>
 
 
 
